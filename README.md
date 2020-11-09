@@ -1,0 +1,2 @@
+# pathfinder
+made to find the shortest path for an RC car to go between rooms while following lines made of tape. the floorplan is the layout of the second floor of my old house before I immigrated. This was made before I knew what trees(the data structure not the organism) were, which explains the list of tuples. My brother used a raspberry PI , a camera and OpenCV to make the car follow the tape lines. This program was made 3 years ago, so it might not be the fastest or most efficient. I found it deep in my filesystem recently.
